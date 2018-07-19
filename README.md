@@ -404,7 +404,7 @@
             <td>22장</td>
             <td>너드인가, 너드가 아닌가? 2</td>
             <td><a href="http://algospot.com/judge/problem/read/NERD2">NERD2</a></td>
-            <td></td>
+            <td><a href="nerd2.cc">네!</a></td>
         </tr>
         <tr>
             <td>22장</td>
@@ -416,7 +416,7 @@
             <td>23장</td>
             <td>변화하는 중간 값</td>
             <td><a href="http://algospot.com/judge/problem/read/RUNNINGMEDIAN">RUNNINGMEDIAN</a></td>
-            <td></td>
+            <td><a href="runningmeidan.cc">네!</a></td>
         </tr>
         <tr>
             <td>24장</td>
