@@ -1,6 +1,7 @@
 CXX := g++
 CXXFLAGS := -std=c++17
-TARGET := $2
+SRC_DIR := src
+TARGET := $(PROBLEM)
 
-$(TARGET) :
-	$(CXX) $(CXXFLAGS) -o $(TARGET)
+$(TARGET):
+	$(CXX) $(SRC_DIR)/$(TARGET).cc -o $(TARGET) $(CXXFLAGS)
