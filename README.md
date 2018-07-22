@@ -26,7 +26,7 @@
             <td>6장</td>
             <td>보글 게임</td>
             <td><a href="http://algospot.com/judge/problem/read/BOGGLE">BOGGLE</a></td>
-            <td></td>
+            <td><a href="src/boggle.cc">시간 초과</a></td>
         </tr>
         <tr>
             <td>6장</td>
@@ -404,7 +404,7 @@
             <td>22장</td>
             <td>너드인가, 너드가 아닌가? 2</td>
             <td><a href="http://algospot.com/judge/problem/read/NERD2">NERD2</a></td>
-            <td><a href="nerd2.cc">네!</a></td>
+            <td><a href="src/nerd2.cc">네!</a></td>
         </tr>
         <tr>
             <td>22장</td>
@@ -416,7 +416,7 @@
             <td>23장</td>
             <td>변화하는 중간 값</td>
             <td><a href="http://algospot.com/judge/problem/read/RUNNINGMEDIAN">RUNNINGMEDIAN</a></td>
-            <td><a href="runningmeidan.cc">네!</a></td>
+            <td><a href="src/runningmeidan.cc">네!</a></td>
         </tr>
         <tr>
             <td>24장</td>
