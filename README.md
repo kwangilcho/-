@@ -5,6 +5,18 @@
 
 알고리즘 문제를 하나씩 풀다보면 뇌가 말랑말랑해지는 그 느낌이 좋아 시작했습니다.
 
+# Makefile을 이용해서 특정 문제 컴파일 & 실행하기
+```bash
+make PROBLEM={문제 이름}
+./{문제 이름}
+```
+
+예시:
+```bash
+make PROBLEM=runningmedian
+./runningmedian
+```
+
 # 어디까지 풀었나?
 <table>
     <thead>
